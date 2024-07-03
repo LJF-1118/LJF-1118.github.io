@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+}
+.blue {
+    color: blue;
+}
+
+div{
+    color:green;
+    width:100px;
+    height:100px;
+    margin:100px 15px;
+    
+}
